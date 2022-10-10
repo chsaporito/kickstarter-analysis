@@ -7,7 +7,7 @@ The Purpose of this project is to analyze a crowd sourcing spreadsheet which inc
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![This is an image](https://github.com/chsaporito/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
