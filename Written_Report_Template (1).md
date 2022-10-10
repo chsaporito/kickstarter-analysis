@@ -7,11 +7,13 @@ The Purpose of this project is to analyze a crowd sourcing spreadsheet which inc
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-For Louise's Play, we know that the play made $2485.00 in pledges which did not meet the goal of $2885.00, the campaign was launched in June, 2016, the play was under the "Theater" category, and the outcome was "failed". Our first attempt at analysis is to look at all Theater campaigns, Success,  Failure or Canceled, based on the launch dates to see how Louise's play "Fever" compares. To do this, a Pivot Table was made that grouped the months with the number of outcomes broken out by, Successs, Failed and Canceled with filters for Category and Year.
+For Louise's Play, we know that the play made $2485.00 in pledges which did not meet the goal of $2885.00, the campaign was launched in June 2016, the play was under the "Theater" category, and the outcome was "failed". Our first attempt at analysis is to look at all Theater campaigns, Success,  Failure or Canceled, based on the launch dates to see how Louise's play "Fever" compares. To do this, a Pivot Table was made that grouped the months with the number of outcomes broken out by, Success, Failed and Canceled with filters for Category and Year. 
 
 ![This is an image](https://github.com/chsaporito/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
+When we filter by "Theater", we see the highest number of success's is in the month of May with a count of 111, followed by June with a count of 100. We can also see that May also has the highest number of Failed campaigns as well, but the trend is relatively flat for June and July.  We can also see that Successful and Failed follow a similar trend, but this appears to be a function of the total number of campaigns where there are simply more campaigns in May followed by June and so on.  So, the more campaigns there are, the more successful campaigns and the more failed campaigns you will see. Canceled campaigns vary from a count of 0 to 7 campaigns with no trend.
 
+For this analysis, Louise's play failed to meet its goal along with 48 other campaigns under the Theater category where 100 campaigns succeeded.  
 
 ### Analysis of Outcomes Based on Goals
 ![This is an image](https://github.com/chsaporito/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
