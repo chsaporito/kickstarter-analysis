@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
+
 ### Purpose
 The Purpose of this project is to analyze a crowd sourcing spreadsheet which includes data for several funding campaigns for various projects including Films, Music, and Photography. The Data also includes information on the dollar amount for the campaign Goals and the actual amount Pledged. We will also be looking at Successful and Failed campaigns and launch dates of the campaign.  Particularly, we want to look at Louise's play "Fever" compared to other campaigns and how well they did. 
 ## Analysis and Challenges
